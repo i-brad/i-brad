@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MickelsonKlaus
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently working as a web developer
 - 💞️ I’m looking to collaborate on web project
 - 📫 How to reach me braimahaboy@gmail.com
 
