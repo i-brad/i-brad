@@ -2,8 +2,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mickelsonklaus" alt="mickelsonklaus" /></a> </p>
 
-- 🔭 I’m currently working on **an inventory management system with Nextjs**
-
 - 🌱 I’m currently learning **sanity(cms)**
 
 - 👯 I’m looking to collaborate on **open source projects**
