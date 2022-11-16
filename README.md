@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Brad</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-brad" alt="i-brad" /></a> </p>
-
 - 🌱 I’m currently learning **sanity(cms)**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **coding issues**
-
 - 👨‍💻 All of my projects are available at [https://github.com/i-brad](https://github.com/i-brad)
 
-- 💬 Ask me about **react, typescript,...**
+- 💬 Ask me about **react, javascript,...**
 
 - 📫 How to reach me **braimahaboy@gmail.com**
 
@@ -29,5 +25,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-brad&show_icons=true&locale=en&layout=compact" alt="i-brad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-brad&show_icons=true&locale=en" alt="i-brad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-brad&" alt="i-brad" /></p>
