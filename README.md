@@ -11,7 +11,6 @@
   <img align="center" style="display: inline;" src="https://github-readme-streak-stats.herokuapp.com/?user=i-brad&" alt="Brad" />
 </p>
 
-<p align="center">
+
   [![Brad's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=i-brad&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/i-brad/github-readme-stats#gh-dark-mode-only)
 [![Brad's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=i-brad&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/i-brad/github-readme-stats#gh-light-mode-only)
-  </p>
